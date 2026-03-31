@@ -8,6 +8,14 @@
 E. A. Moreno, S. Bright-Thonney, A. Novak, D. Garcia, P. Harris  
 **[arXiv:2603.20179](https://arxiv.org/abs/2603.20179)**
 
+## Website
+
+**[jfc-mit.github.io](https://jfc-mit.github.io)** — Full project landing page with analysis notes and results.
+
+## Framework
+
+The JFC framework is available at [jfc-mit/jfc](https://github.com/jfc-mit/jfc).
+
 ## Analyses
 
 | Experiment | Analysis | Repository |
@@ -21,14 +29,6 @@ E. A. Moreno, S. Bright-Thonney, A. Novak, D. Garcia, P. Harris
 | **DELPHI** | Hadronic Event Shapes & α_s | [analysis_delphi_had_eventshape_alpha_s](https://github.com/jfc-mit/analysis_delphi_had_eventshape_alpha_s) |
 | **DELPHI** | Jet Substructure | [analysis_delphi_jet_substructure](https://github.com/jfc-mit/analysis_delphi_jet_substructure) |
 | **CMS** | H → ττ | [analysis_cms_open_higgstautau](https://github.com/jfc-mit/analysis_cms_open_higgstautau) |
-
-## Website
-
-**[jfc-mit.github.io](https://jfc-mit.github.io)** — Full project landing page with analysis notes and results.
-
-## Framework
-
-The JFC framework is available at [jfc-mit/jfc](https://github.com/jfc-mit/jfc).
 
 ## Affiliations
 
