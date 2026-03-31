@@ -20,7 +20,7 @@ We have demonstrated that large language model-based AI agents can autonomously 
 
 *AI Agents Can Already Autonomously Perform Experimental High Energy Physics*  
 E. A. Moreno, S. Bright-Thonney, A. Novak, D. Garcia, P. Harris  
-Preprint available on the landing page.
+**[arXiv:2603.20179](https://arxiv.org/abs/2603.20179)**
 
 ## Framework
 
